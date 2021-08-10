@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arianna
+- 👋 Hi, I’m Arianna.
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently learning how to use Python and R.
 
